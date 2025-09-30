@@ -7,8 +7,7 @@ function Home() {
 function App() {
 
   return (
-      <div className="">
-        test
+      <div className="min-h-screen">
         <NavBar></NavBar>
         <main>
           <Home></Home>
